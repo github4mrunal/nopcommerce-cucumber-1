@@ -1,0 +1,87 @@
+2021-06-28 20:06:394 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 20:06:345 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (43c47e4fb9b4728774830b3f648adc3d)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:465 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (43c47e4fb9b4728774830b3f648adc3d)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:465 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@2b46a8c1
+2021-06-28 20:06:569 INFO  DesktopPage :31 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (43c47e4fb9b4728774830b3f648adc3d)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 20:06:491 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 20:06:204 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 20:06:709 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (71857f8418f2e0a63e091a8ba76c6681)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:805 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (71857f8418f2e0a63e091a8ba76c6681)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:805 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@29caf222
+2021-06-28 20:06:917 INFO  DesktopPage :31 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (71857f8418f2e0a63e091a8ba76c6681)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 20:06:934 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 20:06:446 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (39296157b8900ba5d5a577f924b0796c)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:542 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (39296157b8900ba5d5a577f924b0796c)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:542 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@46cf05f7
+2021-06-28 20:06:638 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (39296157b8900ba5d5a577f924b0796c)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 20:06:587 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (39296157b8900ba5d5a577f924b0796c)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 20:06:47 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 20:06:557 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (cd894e9804594ccb90b49ca6fba1255d)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:653 INFO  Homepage :41 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (cd894e9804594ccb90b49ca6fba1255d)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 20:06:661 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@46cf05f7
+2021-06-28 20:06:305 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (cd894e9804594ccb90b49ca6fba1255d)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 20:06:502 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (cd894e9804594ccb90b49ca6fba1255d)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 21:06:71 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 21:06:07 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (4f077e3b5aef5db416f94ccd53103f7f)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:236 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (4f077e3b5aef5db416f94ccd53103f7f)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:237 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@588ab592
+2021-06-28 21:06:468 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (4f077e3b5aef5db416f94ccd53103f7f)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 21:06:717 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (4f077e3b5aef5db416f94ccd53103f7f)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 21:06:72 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 21:06:986 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (6418498fefeaf93fdbab44ed937a2428)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:112 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (6418498fefeaf93fdbab44ed937a2428)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 21:06:113 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@edf4f36
+2021-06-28 21:06:375 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (6418498fefeaf93fdbab44ed937a2428)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 21:06:472 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:367 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:758 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (4e5f305547f150543b411c1d6b63dcab)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:23 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (4e5f305547f150543b411c1d6b63dcab)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:23 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@3caa4757
+2021-06-28 22:06:243 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (4e5f305547f150543b411c1d6b63dcab)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 22:06:552 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (4e5f305547f150543b411c1d6b63dcab)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 22:06:862 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:524 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-28 22:06:785 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (b992511943a946e6d6d0b3b5d3e06da5)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:939 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (b992511943a946e6d6d0b3b5d3e06da5)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-28 22:06:940 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@3caa4757
+2021-06-28 22:06:254 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (b992511943a946e6d6d0b3b5d3e06da5)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-28 22:06:509 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (b992511943a946e6d6d0b3b5d3e06da5)] -> xpath: //select[@id='products-orderby']]
+2021-06-28 22:06:147 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:17 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:855 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (83994954c65dec89398e52943d0176fb)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:959 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (83994954c65dec89398e52943d0176fb)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:967 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@1c807b1d
+2021-06-29 00:06:510 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (83994954c65dec89398e52943d0176fb)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-29 00:06:694 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (83994954c65dec89398e52943d0176fb)] -> xpath: //select[@id='products-orderby']]
+2021-06-29 00:06:723 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:549 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (92765d8ee41b05419f2d6d5e1dee01a5)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:565 INFO  Homepage :68 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (92765d8ee41b05419f2d6d5e1dee01a5)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-29 00:06:831 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:576 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (16f92323da7504e8edfd5b3ee7873e20)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:616 INFO  Homepage :68 - verifying top menu tab text[[ChromeDriver: chrome on WINDOWS (16f92323da7504e8edfd5b3ee7873e20)] -> xpath: //h1[(text()='Electronics')or(text()='Computers')or(text()='Books')or(text()='Digital downloads')or(text()='Apparel')or(text()='Gift Cards')or(text()='Jewelry')]]
+2021-06-29 00:06:504 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:203 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (46cf0a030afab4f176df14701f299c90)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:299 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (46cf0a030afab4f176df14701f299c90)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:299 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@69c43e48
+2021-06-29 00:06:429 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (46cf0a030afab4f176df14701f299c90)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-29 00:06:628 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (46cf0a030afab4f176df14701f299c90)] -> xpath: //select[@id='products-orderby']]
+2021-06-29 00:06:821 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:443 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (a34e3c0ec97295200eae9b2fc5497bbb)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:443 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@3dddbe65
+2021-06-29 00:06:531 INFO  ComputersPage :38 - Clicking on DeskTop Tab: [[ChromeDriver: chrome on WINDOWS (a34e3c0ec97295200eae9b2fc5497bbb)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:224 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 00:06:34 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (ad9f9794a1ec1e92b80abda2f9b7946e)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 00:06:34 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@3dddbe65
+2021-06-29 00:06:130 INFO  ComputersPage :38 - Clicking on DeskTop Tab: [[ChromeDriver: chrome on WINDOWS (ad9f9794a1ec1e92b80abda2f9b7946e)] -> xpath: //body/div[6]/div[3]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/ul[1]/li[1]/a[1]]
+2021-06-29 20:06:37 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 20:06:402 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (378d13c8e62266d55fbaef2a82f75cc4)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 20:06:529 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (378d13c8e62266d55fbaef2a82f75cc4)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 20:06:530 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@7cd1ac19
+2021-06-29 20:06:842 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (378d13c8e62266d55fbaef2a82f75cc4)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-29 20:06:78 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (378d13c8e62266d55fbaef2a82f75cc4)] -> xpath: //select[@id='products-orderby']]
+2021-06-29 22:06:913 INFO  BasePage :33 - Launching Chrome Browser 
+2021-06-29 22:06:782 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (595b12b2415ae5ed45df100d6bade6a0)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 22:06:972 INFO  Homepage :44 - Clicking on Computers Tab[[ChromeDriver: chrome on WINDOWS (595b12b2415ae5ed45df100d6bade6a0)] -> xpath: //body[1]/div[6]/div[2]/ul[1]/li[1]/a[1]]
+2021-06-29 22:06:973 INFO  ComputersPage :31 - Clicking on Computers Tab : com.nopcommerce.demo.pages.Homepage@7cd1ac19
+2021-06-29 22:06:302 INFO  DesktopPage :32 - Clicking on DeskTop [[ChromeDriver: chrome on WINDOWS (595b12b2415ae5ed45df100d6bade6a0)] -> xpath: //ul[@class = 'sublist']//child::li//child::a[text() = 'Desktops ']]
+2021-06-29 22:06:665 INFO  DesktopPage :42 - Selecting z to A from dropDown [[ChromeDriver: chrome on WINDOWS (595b12b2415ae5ed45df100d6bade6a0)] -> xpath: //select[@id='products-orderby']]
